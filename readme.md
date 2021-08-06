@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img title="THISISME" src="https://github.com/thisismemukul/thisisme/blob/main/images/logo.png"></a>
+<a href="#"><img title="THISISME" src="https://github.com/thisismemukul/RGBGuessingGame/blob/main/game.png"></a>
 </p>
 
 ### Hi there, This is me [Mukul Saini][linkedin] 👋
