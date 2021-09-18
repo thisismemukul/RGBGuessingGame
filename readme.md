@@ -1,6 +1,6 @@
 # RGB-Guessing-Game
 <p align="center">
-<a href="#"><img title="THISISME" src="https://github.com/thisismemukul/RGBGuessingGame/blob/main/game.png"></a>
+<a href="#"><img title="THISISME" src="https://github.com/thisismemukul/RGBGuessingGame/blob/main/rgb.png"></a>
 </p>
 This Game is very simple:
 You get a RGB Color-Code and all you need to do is select the corresponding color
